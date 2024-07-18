@@ -23,6 +23,6 @@ I want this application to be an offline-first application because the main aim 
 **Demo:** https://www.figma.com/proto/FDBoKS0SACCkATna3Na896/App-UI?node-id=19-241&t=EYJZN6hDwfIhifL7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A514&show-proto-sidebar=1
 
 Project Resources
-UI Design: The UI design for the app is detailed in the AppDesign.pdf file.
-Database: The database for this app is available in the pma.db file.
+1. UI Design: The UI design for the app is detailed in the AppDesign.pdf file.
+2. Database: The database for this app is available in the pma.db file.
 
