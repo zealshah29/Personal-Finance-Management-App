@@ -13,6 +13,7 @@ Last but not least, this app also allows us to export our data as an Excel sheet
 
 **The technology used:** SQLite, Figma Software, Flutter
 I have worked on designing the app's interface and database.
+
 **Development:** 
 Reason to choose Flutter:
 I want this to be a cross-platform app and hence decided to go with Flutter because it allows you to write a single codebase for both iOS and Android, ensuring consistent performance and appearance. It offers a rich set of pre-designed widgets, fast development with hot-reload, and strong community support, making it efficient and cost-effective.
