@@ -15,10 +15,10 @@ Last but not least, this app also allows us to export our data as an Excel sheet
 I have worked on designing the app's interface and database.
 
 **Development:** 
-Reason to choose Flutter:
+**1. Reason to choose Flutter:**
 I want this to be a cross-platform app and hence decided to go with Flutter because it allows you to write a single codebase for both iOS and Android, ensuring consistent performance and appearance. It offers a rich set of pre-designed widgets, fast development with hot-reload, and strong community support, making it efficient and cost-effective.
 
-Reason to choose SQLite as a database engine: 
+**2. Reason to choose SQLite as a database engine:**
 I want this application to be an offline-first application because the main aim of this app is that users should be able to access it at any time, even in the absence of the internet. This will be useful in scenarios where internet connectivity is an issue (eg: during travel or  living in a hostel, etc). Therefore, I decided to choose SQLite because it's lightweight, efficient, and supports offline functionality. Its easy integration with Flutter, robust security, and good performance for small to medium databases make it a reliable choice.
 
 **Demo:** https://www.figma.com/proto/FDBoKS0SACCkATna3Na896/App-UI?node-id=19-241&t=EYJZN6hDwfIhifL7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A514&show-proto-sidebar=1
