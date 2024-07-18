@@ -1,8 +1,8 @@
 # Personal-Finance-Management-App
 
-Overview: As a university student, tracking down our finances and managing our money efficiently becomes extremely important. This app has various features to facilitate personal finance management. 
+**Overview**: As a university student, tracking down our finances and managing our money efficiently becomes extremely important. This app has various features to facilitate personal finance management. 
 
-Features:
+**Features**:
 This app is divided into three broad categories: 
 1. **Accounts:** This section keeps track of money present in different accounts you hold. It's broadly categories into 2 groups: Cash account and Bank account. It even allows you to create a new account. 
 2. **Transaction History:** As the name suggests, it gives you the history of transactions you have made in a given period. It also displays the amount credited, debited, and net for a given period. By default, it shows the monthly transaction. There is an option for filter which allows you to view transactions for a given category, period, or account. 
